@@ -1,27 +1,27 @@
-- **[[Period of Division]]** —
-- **[[Ballad of Mulan]]** —
+- **[[Period of Division]]** — Period of instability and civil war after fall of [[Han Dynasty]]
+- **[[Ballad of Mulan]]** — 
 - **[[Tang Dynasty]]** —
 - **[[Wu Zetian]]** —
-- **[[Golden Age|Golden ages]]** —
+- **[[Golden Age]]** — When a society is doing especially well and flourishes in arts, trade, and culture
 - **[[Soghdians]]** —
 - **[[Chang’an]]** —
-- **[[Xenophobia]]** —
+- **[[Xenophobia]]** — Fear of strangers, fear of others
 - **[[An Lushan|An Lushan (Rebellion)]]** —
 - **[[Battle of Talas]]** —
-- **[[Song Dynasty]]** —
+- **[[Song Dynasty]]** — Golden age in China, split in two parts, [[Mongols]] ruled second part
 - **[[Neo-Confucianism]]** —
-- **[[Yuan Dynasty]]** —
+- **[[Yuan Dynasty]]** — Part of the [[Mongol Empire]]
 - **[[Kublai Khan]]** —
-- **[[Quanzhou]]** —
-- **[[Marco Polo]]** —
-- **[[Ming Dynasty]]** —
-- **[[Yongle Emperor]]** —
+- **[[Quanzhou]]** — Big trading city in China
+- **[[Marco Polo]]** — Venetian merchant who went to China and wrote a book about it
+- **[[Ming Dynasty]]** — A dynasty that receded from outside contact
+- **[[Yongle Emperor]]** — 3rd emperor of the [[Ming Dynasty]], fought against [[Treasure Voyages]]
 - **[[Zheng He]]** —
-- **[[Treasure Voyages]]** —
-- **[[Delhi Sultanate]]** —
-- **[[Islam]]** —
-- **[[Five Pillars of Islam]]** —
-- **[[Qur'an|Qur'an / Koran]]** —
+- **[[Treasure Voyages]]** — Voyages conducted by China to p
+- **[[Delhi Sultanate]]** — Muslim dynasties in South Asia, five existed, highly unstable
+- **[[Islam]]** — Monotheistic religion founded by [[Muhammad]]
+- **[[Five Pillars of Islam]]** — Declaring faith, praying, giving alms, fasting, and pilgrimage
+- **[[Qur'an|Qur'an / Koran]]** — The [[Islam|Muslim]] holy book
 - **[[Urdu]]** —
 - **[[Indo-Islamic Culture]]** —
 - **[[Mughal Dynasty]]** —
@@ -32,10 +32,10 @@
 - **[[Jizya]]** —
 - **[[Din-i-ilahi]]** —
 - **[[Fatehpur Sikri]]** —
-- **[[Jahangir]]** —
+- **[[Jahangir]]** — readopted [[Islam]] as the major religion but still allowed others a7w4ip
 - **[[Shah Jahan]]** —
 - **[[Taj Mahal]]** —
 - **[[Sikhism|Sikhs / Sikhism]]** —
 - **[[Guru Nanak]]** —
 - **[[5 K's]]** —
-- **[[Aurangzeb]]** —
+- **[[Aurangzeb]]** — devout [[Islam|Muslim]] emperor who disallowed religious diversity

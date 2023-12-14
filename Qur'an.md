@@ -1,0 +1,2 @@
+- Holy book of [[Islam]]
+- Contains transcripts of [[Muhammad]]'s dreams and conversations with [[Allah]]

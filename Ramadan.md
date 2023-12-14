@@ -1,0 +1,2 @@
+- Holiest month of the [[Islam|Islamic]] calendar
+- All able [[Islam|Muslims]] required to fast during each day

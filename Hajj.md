@@ -1,0 +1,2 @@
+- Pilgrimage to [[Mecca]]
+- Required of all [[Islam|Muslims]] who are able

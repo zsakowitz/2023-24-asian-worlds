@@ -6,6 +6,7 @@
 	- Killed 100,000 people he felt threatened by
 	- Chose grandson, [[Yongle Emperor]], as next ruler
 		- Grandson overthrown by [[Hongwu]]'s son
+		- Grandson eventually became 3rd emperor
 - Replaced civil service exam as (lon/len?)
 - Decreased power of court eunuchs
 - Merchants put back into lower parts of society

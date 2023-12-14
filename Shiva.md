@@ -1,0 +1,1 @@
+- The destroyer god of [[Hinduism]]

@@ -1,0 +1,2 @@
+- Founder of [[Christianity]]
+- Believed to be a messiah of sorts

@@ -43,4 +43,3 @@
 - **[[Kushan Empire]]** — empire formed by Yuezhi in Bactrian territories
 - **[[Greco-Bactrian/Gandharan Art]]** — art with both Greek and Bactrian influences
 - **[[Gupta Empire]]** — golden age after [[Mauryan Empire]] passed
-- Is next to [[China]]

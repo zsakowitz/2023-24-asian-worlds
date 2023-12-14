@@ -1,0 +1,2 @@
+- Temple in the center of Beijing
+- Only a few people allowed in, mostly emperors and high-ranking officials

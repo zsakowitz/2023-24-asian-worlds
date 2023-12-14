@@ -1,0 +1,2 @@
+- One of the [[Five Pillars of Islam]]
+- Giving to the poor

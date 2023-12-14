@@ -1,0 +1,1 @@
+- The leader of the [[Islam|Islamic]] state

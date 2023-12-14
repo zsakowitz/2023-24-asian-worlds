@@ -1,0 +1,2 @@
+- The tribe [[Muhammad]] was born into
+- Controlled [[Mecca]]

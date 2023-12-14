@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "6507d56d824d1a97",
+        "id": "a4e776995d6da67d",
         "type": "tabs",
         "children": [
           {
-            "id": "a0642f21e4dba03f",
+            "id": "235c46bfcf0ae17a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Muslim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,37 +134,40 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ae1c20565318ab5",
+  "active": "235c46bfcf0ae17a",
   "lastOpenFiles": [
-    "LICENSE",
-    "README.md",
-    "General Notes.md",
-    "Uncategorized/Mosque.md",
-    "Uncategorized/Porcelain.md",
+    "Junk.md",
+    "China.md",
+    "Key Terms/Unit 3 – Early Empires.md",
+    "Belief Systems/Five Pillars of Islam.md",
+    "Ramadan.md",
+    "Hajj.md",
+    "Siyam.md",
+    "Zakat.md",
+    "Shahada.md",
+    "Salat.md",
+    "Places/Map.md",
+    "Qur'an.md",
+    "Mecca.md",
+    "Belief Systems/Islam.md",
+    "Ka'aba.md",
+    "Shiva.md",
+    "Din-i-ilahi.md",
+    "Forbidden City.md",
+    "Urdu.md",
+    "Homework/December 9.md",
+    "Belief Systems/Muslim.md",
+    "Key Terms/Unit 4 – Multicultural Empires.md",
     "Uncategorized/Dhimmi.md",
-    "Uncategorized/Battle of Kalinga.md",
-    "Uncategorized/Moksha.md",
-    "Uncategorized/Dharma.md",
-    "Uncategorized/Shari'ah.md",
-    "Uncategorized/Aryan Kingship.md",
-    "Uncategorized/Silk.md",
-    "Uncategorized/Kshatriya.md",
-    "Uncategorized/PURR.md",
-    "Uncategorized/Atman.md",
-    "Uncategorized/Strings of Cash.md",
-    "Uncategorized/Brahman.md",
-    "Uncategorized/Samsara.md",
-    "Uncategorized/Oracle Bones.md",
-    "Uncategorized/Beliefs.md",
-    "Uncategorized/Historiography.md",
-    "Uncategorized/Xiongnu.md",
-    "Uncategorized/Sinicization.md",
-    "Uncategorized/Treasure Voyages.md",
-    "Uncategorized/Culture Sources.md",
-    "Uncategorized/Aryans.md",
+    "South Asian Empires/Delhi Sultanate.md",
+    "DBQs/DBQ 4 – 01 Sources.md",
+    "People/Caliph.md",
+    "Eras",
+    "LICENSE",
     "Uncategorized",
     "South Asian Empires",
     "Places",
@@ -173,8 +175,6 @@
     "Key Terms",
     "Homework",
     "Governmental Systems",
-    "Documents",
-    "DBQs",
-    "Chinese Dynasties"
+    "Documents"
   ]
 }

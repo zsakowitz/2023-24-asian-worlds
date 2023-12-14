@@ -1,6 +1,6 @@
-- Devout [[Muslim]]
+- Devout [[Islam|Muslim]]
 - Reinstated [[Shari'ah]]
 - Stopped allowing other religions
 - People very hostile towards him
-- Extremist [[Muslim]] control led to a weak empire
+- Extremist [[Islam|Muslim]] control led to a weak empire
 - Conquered many things

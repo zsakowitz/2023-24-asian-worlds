@@ -1,0 +1,3 @@
+- Type of very large ship
+- Invented by Chinese, adopted by others
+- Used for trade

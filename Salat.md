@@ -1,0 +1,2 @@
+- One of the [[Five Pillars of Islam]]
+- Praying five times a day
