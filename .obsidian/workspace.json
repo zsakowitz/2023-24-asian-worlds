@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +151,7 @@
   },
   "active": "bb55bea92629e61f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Homework/Fall Semester Exam Prep.md",
     "Untitled",
     "Uncategorized/Din-i-ilahi.md",
@@ -176,7 +178,6 @@
     "Key Terms/Unit 4 – Multicultural Empires.md",
     "Uncategorized/Dhimmi.md",
     "South Asian Empires/Delhi Sultanate.md",
-    "DBQs/DBQ 4 – 01 Sources.md",
     "Eras",
     "LICENSE",
     "Uncategorized",
