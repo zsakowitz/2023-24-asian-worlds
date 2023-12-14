@@ -1,0 +1,2 @@
+- Birth name was Siddhartha Gautama
+- Originally a prince from [[Nepal]]

@@ -1,0 +1,2 @@
+- Supposedly the first created man
+- Wrote the [[Laws of Manu]]

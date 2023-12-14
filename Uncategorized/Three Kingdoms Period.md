@@ -1,0 +1,5 @@
+- Lasted from 220-280 CE
+- Started when relatives of the [[Xiongnu]] established the [[Wei Dynasty]]
+- Han Chinese moved south and split in two
+- [[Wei]] people adapted to Chinese customs and married ethnic Chinese
+- They also heavily promoted Buddhism in their dynasty

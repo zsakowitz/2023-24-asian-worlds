@@ -1,0 +1,3 @@
+- [[Monotheism|Monotheistic]] religion
+- Founded by [[Muhammad]]
+- Spread through trade, conquest, and conversion

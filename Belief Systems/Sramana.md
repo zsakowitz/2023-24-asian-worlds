@@ -1,0 +1,5 @@
+- Religion of extreme austerity
+- Living through long fasts
+- Few clothes worn
+- All vegetarians
+- Nonviolent

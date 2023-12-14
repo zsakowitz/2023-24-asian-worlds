@@ -1,0 +1,6 @@
+- Spreaders of [[Islam]]
+- Wanted to connect more directly to God
+	- Believed [[Five Pillars of Islam]] were not enough
+- Very charismatic
+- Adapted to local practices
+- Spread ideas such as irrigation and water wheels

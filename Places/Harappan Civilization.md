@@ -1,0 +1,14 @@
+- Sites of Harappan civilizations date back to 7000 BCE
+- Many cities had upwards of 80,000 people
+- It was 600,000 mi² in area
+- Over a hundred sites have been discovered and excavated
+	- Originally discovered in 1826
+	- Dug up in 1920
+- Advanced civilization
+	- Had gridded streets
+	- Had bathrooms and sewage systems
+- Likely not centered on war and conquest
+- Historians used to believe this was invaded by [[Aryans]]
+	- This theory is not accepted anymore
+- It was set during a good period, when the nearby rivers were not too empty or too full
+	- Later, the rivers underflowed and the civilization died out

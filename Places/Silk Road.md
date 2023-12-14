@@ -1,0 +1,2 @@
+- Major trade path between China and the rest of Asia
+- Some merchants on this route became Buddhist for trade purposes

@@ -1,0 +1,27 @@
+- Founded after Tang dynasty fell
+	- Post-Tang, China flung into [[Five Dynasties & Ten Kingdoms Period]]
+	- Highly unstable
+	- Five large states quickly overtook each other
+	- Song won in the end
+- Lasted from 960 to 1279 CE
+	- First half was Northern Song (960-1127)
+	- Second half was Southern Song (1127-1279)
+		- Southern Song kept out Jin, but the [[Mongols]] took both
+- Made technological advancements
+	- First paper currency in China
+	- Used clay type for printing
+	- Made improvements to magnet and compass
+	- Invented gunpowder, cannon, flamethrower, land mine
+- Economy and population grew a lot
+	- Population doubled between 900 and 1000
+	- China's GDP was 3x that of all of Europe then
+	- Industrial revolution
+- Commercial cities grew, with restaurants, bars, theaters, etc.
+	- These had culture and trade
+- Neo-Confucianism grew during Song
+	- Spread through China to Japan, Korea, and Vietnam
+		- Korean views heavily shaped by Confucianism
+	- Merchants played increased role in society
+	- Self-cultivation emphasized as positive
+	- Abstract knowledge deemed pointless unless used
+	- Rigid social structure

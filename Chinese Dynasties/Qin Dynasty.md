@@ -1,0 +1,12 @@
+- Abolished [[Feudalism|feudalism]]
+- Unified China
+- Standardized many things (axles, weapons, measurements, writing system)
+	- This created a unified cultural identity
+- Centralized the government
+- Implemented [[Legalism|legalism]]
+	- Bureaucratic government
+	- Had extreme punishments for legal infractions
+- Large scale public works projects
+	- Started the [[Great Wall of China]]
+	- Built many roads
+	- Established a postal service

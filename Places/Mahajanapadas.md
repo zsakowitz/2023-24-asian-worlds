@@ -1,0 +1,3 @@
+- 16 major cities in South Asia
+- Consolidated from several smaller cities
+- Largest was [[Magadah]]

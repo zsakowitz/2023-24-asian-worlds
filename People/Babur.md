@@ -1,0 +1,1 @@
+- Allowed both [[Islam]] and [[Hinduism]] during his reign

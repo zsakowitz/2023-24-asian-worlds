@@ -1,0 +1,4 @@
+- Chinese historian
+- Set terms for Chinese historiography
+- Wrote [[Records of the Grand Historian]]
+- First historian to recognize "barbarians" as agents of change

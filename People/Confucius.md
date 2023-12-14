@@ -1,0 +1,1 @@
+- [[Han Dynasty|Han]] state made statues of Confucius

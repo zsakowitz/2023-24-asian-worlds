@@ -1,0 +1,2 @@
+- Protected status non-Muslims had under Muslim rule
+- Paying the [[Jizya|jizya]] tax enforced this

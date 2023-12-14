@@ -1,0 +1,5 @@
+- Various castes of the [[Vedism|Vedic]] traditions
+- Determined social class
+- System of varna and caste changed over time
+- Four castes: [[Brahmana]], [[Kshatriya]], [[Vaisya]], and [[Sudra]]
+- Fifth caste (untouchables) implied, known as [[Dalits]]

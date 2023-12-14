@@ -1,0 +1,7 @@
+- Third ruler of [[Mauryan Empire]]
+- Unified most of India
+- Invented and standardized Brahmi script (although there are no records of it)
+- Started the [[Battle of Kalinga]]
+- Outlawed harming animals
+- Tried to show [[Dharma|dharma]] was the best way to live
+- Wrote the [[Rock Edicts]]

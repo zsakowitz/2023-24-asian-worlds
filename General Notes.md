@@ -1,0 +1,7 @@
+- Translation of [[Buddhism|Buddhist]] texts into Chinese changed their meaning
+- Buddhism arrived in a developed China and adapted to it
+- [[Daoism]] / [[Buddhism]] / [[Confucianism]] are belief systems, not religions
+  - "Buddhism is the sun, Daoism the moon, and Confucianism the five planets"
+  - All three were practiced together, not separately
+- Most visitors to India came in peace
+  - Europeans didn't

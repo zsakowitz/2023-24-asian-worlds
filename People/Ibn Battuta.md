@@ -1,0 +1,7 @@
+- Lived from 1304 to 1369
+- Spent 29 years traveling
+- Born in [[Morocco]]
+- First journey was [[Hajj|hajj]]
+- Traveled around southwest Asia (customary for scholars at the time)
+- Toured most of the [[Islam|Islamic]] world and some [[Christianity|Christian]] cities
+- Talked about traveling to China but likely never actually went

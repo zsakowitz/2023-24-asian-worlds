@@ -1,0 +1,4 @@
+- Practical application of caste in a diverse society
+- Subgroupings of [[Varnas|varna]]
+- Decided by occupation, gender, and many other things
+- Size of a jati could be anywhere from 500 to 15,000 people

@@ -1,0 +1,5 @@
+- Made in China
+- Often blue-and-white
+- Chinese makers kept their methods secret
+- Waterproof
+- Decoratable

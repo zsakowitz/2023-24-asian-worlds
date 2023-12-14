@@ -1,0 +1,4 @@
+- The largest [[Mahajanapadas|mahajanapada]]
+- Located in central Ganges
+- Had many resources
+- Wood, minerals, and elephants all nearby

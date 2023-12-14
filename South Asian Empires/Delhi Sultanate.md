@@ -1,0 +1,9 @@
+- Muslim dynasty established in South Asia
+- Five of these existed
+- Capital located in [[Delhi]]
+- Non-muslims forced to pay [[Jizya|jizya]] tax
+- Had slaves, but slaves could rank very highly
+	- First two sultanates ruled by slaves
+	- Slaves intended to be loyal to their king and to not rise up
+		- Didn't work
+- Highly unstable

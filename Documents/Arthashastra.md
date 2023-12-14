@@ -1,0 +1,3 @@
+- Book detailing how a good king should rule
+- Officially authored by [[Kautilya]]
+- Likely written with help of others over a longer period of time

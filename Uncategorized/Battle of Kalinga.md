@@ -1,0 +1,3 @@
+- Started by [[Asoka]] to conquer more land for the [[Mauryan Empire]]
+- 206 BCE
+- 100K died, 150K enslaved

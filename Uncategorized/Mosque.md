@@ -1,0 +1,2 @@
+- Holy place of [[Islam]]
+- Incorporated local culture and design into their constructions

@@ -1,0 +1,1 @@
+Used [[Oracle Bones]] for divination

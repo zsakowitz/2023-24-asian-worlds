@@ -1,0 +1,5 @@
+- History of China and surrounding cultures
+- Written by [[Sima Qian]]
+- Divided into 130 chapters
+- Included history of Korea and Vietnam
+- Included history of "barbarians" as agents of change

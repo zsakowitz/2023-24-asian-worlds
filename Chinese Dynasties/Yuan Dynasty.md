@@ -1,0 +1,5 @@
+- Lasted from 1279 to 1368 CE
+- Founded by grandson of [[Genghis Khan]]
+- Part of [[Mongol Empire]]
+- Trade very peaceful due to being under umbrella of [[Mongol Empire]]
+- China controlled by foreigners back then

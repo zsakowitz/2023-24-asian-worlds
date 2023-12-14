@@ -1,0 +1,1 @@
+- Readopted [[Islam]] but allowed other religions to flourish

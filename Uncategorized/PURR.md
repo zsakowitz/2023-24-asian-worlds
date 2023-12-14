@@ -1,0 +1,4 @@
+- Precise
+- Unified
+- Restricted
+- Rebuttable

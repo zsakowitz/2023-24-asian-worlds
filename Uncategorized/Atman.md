@@ -1,0 +1,2 @@
+- The world soul
+- Becomes [[Brahman]] after [[Moksha]]

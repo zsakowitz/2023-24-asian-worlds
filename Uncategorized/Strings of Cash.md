@@ -1,0 +1,2 @@
+- Meant to contain around a thousand Chinese coins
+- Often had less

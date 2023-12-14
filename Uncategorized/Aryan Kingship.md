@@ -1,0 +1,2 @@
+- Kshatriya leaders (rajas) governed small cities (called janapadas)
+- By 600 BCE, they consolidated into 16 [[Mahajanapadas]]

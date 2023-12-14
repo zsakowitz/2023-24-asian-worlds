@@ -1,0 +1,4 @@
+- Can be drawn on a map of China
+- Separates western half from eastern half
+- Halves are about the same land area
+- 96% of the population lives east of the line

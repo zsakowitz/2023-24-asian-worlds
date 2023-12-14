@@ -1,0 +1,4 @@
+- **[[Urdu]]** – blend of Hindi, Arabic, and Persian
+- **[[Ghazal]]** – a form of poetry originating in Arabia but traveling to South Asia after the spread of Islam
+	- Central themes: expression of pain, loss, and separation, and beauty of love despite pain
+- **[[Qawwali]]** – fusion music taking inspiration from Persian, Arabic, Turkish, and Indian cultures

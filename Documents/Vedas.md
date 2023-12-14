@@ -1,0 +1,2 @@
+- Books about the [[Vedism|Vedic]] tradition brought to India by [[Aryans]]
+- Evolved into [[Brahmanism]] and [[Hinduism]]

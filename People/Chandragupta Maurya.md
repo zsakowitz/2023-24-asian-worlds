@@ -1,0 +1,3 @@
+- Had a close advisor, [[Kautilya]]
+- Founded the [[Mauryan Empire]]
+- Starved himself to death, something common in his belief system

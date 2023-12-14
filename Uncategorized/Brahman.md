@@ -1,0 +1,4 @@
+- The collective spirit
+- Ultimate essence
+- Comes after [[Atman]]
+- Final form of a human after attaining [[Moksha]]

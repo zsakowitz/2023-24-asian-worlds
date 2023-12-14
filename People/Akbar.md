@@ -1,0 +1,20 @@
+- Allowed [[Hinduism|Hindus]] to live without [[Shari'ah]] (Islamic law)
+- Moved the capital of ==something== to [[Fatehpur Sikri]]
+- Father was [[Humayun]]
+- Married daughters from [[Hinduism|Hindi]] clans
+	- [[Rajput]] daughters could rule in administrative positions
+	- [[Rajput|Rajputs]] whose daughters married Akbar could stay in power peacefully
+		- Otherwise, Akbar fought them
+- His thousand best officers were called [[mansabdars]]
+	- Could lose position by failing to do duties properly
+	- Hand-picked by Akbar
+	- Helped enforce taxes but were careful not to overcharge people in need
+- Standardized having [[Persian]] officials and newspeople
+- Proclaimed a new religion called [[Godism]], or [[Din-i-ilahi]]
+	- Blend of [[Islam]], [[Hinduism]], [[Christianity]], and [[Buddhism]]
+	- Akbar was the god of this new religion
+	- Alienated him from other high-ranking officials
+		- Didn't matter, because he's the emperor
+	- Allegedly stopped Islamic prayers in 1583
+	- Made to appeal to everybody, not just himself
+- Had a debate hall called the [[Ibadat Khana]]

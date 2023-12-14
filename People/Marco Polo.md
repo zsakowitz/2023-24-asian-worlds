@@ -1,0 +1,4 @@
+- Lived from 1254 to 1324
+- Venetian merchant
+- Traveled throughout Asia
+- Provided an early book on this region in a European language

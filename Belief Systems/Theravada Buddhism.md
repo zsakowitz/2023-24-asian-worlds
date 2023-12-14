@@ -1,0 +1,4 @@
+- "Teachings of the elders"
+- Closest offspring of original [[Buddhism]]
+- Believed [[Buddha]] was a real human
+- Thought meditation led to enlightenment

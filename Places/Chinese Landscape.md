@@ -1,0 +1,6 @@
+- Challenges of this landscape shaped human culture
+- Humans also shaped this culture
+- The challenge of growing rice influenced their culture
+	- Rice needed collaboration and cooperation between peoples to grow properly
+- North was more wheat- and red meat-based, South was rice- and fish-based
+- North was the political region, South was the financial region

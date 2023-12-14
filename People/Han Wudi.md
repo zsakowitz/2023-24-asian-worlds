@@ -1,0 +1,3 @@
+- 7th emperor of the [[Han Dynasty]]
+- Imposed state [[Confucianism]] during the [[Han Dynasty]]
+- Expansionist policy bankrupted the country

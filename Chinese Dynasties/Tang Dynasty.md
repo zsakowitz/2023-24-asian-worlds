@@ -1,0 +1,3 @@
+- Lasted from 618-907 CE
+- Between [[Han Dynasty]] and [[Sui Dynasty]]
+- Lots of culture and art

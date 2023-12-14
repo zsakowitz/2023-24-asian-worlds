@@ -1,0 +1,49 @@
+- **[[Aryan Migration]]** – migration of [[Aryans]] south into India
+- **[[Pastoralism]]** – living by raising domesticated animals
+- **[[Adivasi]]** – original inhabitants of India
+- **[[Dravidians]]** – people in the southern region of India and Sri Lanka
+- **[[Laws of Manu]]** – script stating roles of each [[Varnas|varna]]
+- **[[Varnas]]** – castes of [[Brahmanism]]
+	- **[[Brahmana]]** – priests, teachers, taught [[Vedas]], could achieve [[Moksha]]
+	- **[[Kshatriya]]** – warriors, kings, rulers
+	- **[[Vaisya]]** – landowners, merchants
+	- **[[Sudra]]** – servants
+- **[[Jatis]]** – groups of people in India
+- **[[Vedas]]** – ancient [[Hinduism|Hindi]] scriptures about the [[Vedism|Vedic]] traditions
+- **[[Upanishads]]** – ancient [[Hinduism|Hindi]] scriptures explaining [[Atman]]-[[Brahman]]
+- **[[Atman]]-[[Brahman]]** – atman = life soul, brahman = universe soul
+- **[[Samsara]]** – cycle of rebirth
+- **[[Karma]]** – good things make you closer to moksha, bad things take you farther away
+- **[[Moksha]]** – release from [[Samsara]]
+- **[[Nirvana]]** – enlightenment
+- **[[Ashrama]]** – what you should do based on your age
+- **[[Dharma]]** – doing good things and your caste requirements
+- **[[Buddhism]]** – religion based on the idea that suffering can be extinguished
+- **[[Buddha|Siddhartha Gautama]]** – founder of [[Buddhism]]
+- **[[Four Passing Sights]]** – age, sickness, death, asceticism
+- **[[The Middle Way]]** – avoiding extreme asceticism and extreme indulgence
+- **[[Four Noble Truths]]** – suffering exists, it has a cause, it has an end, you can bring that end
+- **[[Eightfold Path]]** – right view, resolve, speech, conduct, livelihood, effort, mindfulness, concentration
+- **[[Sanskritization]]** – things adapting to fit Indian culture
+- [[Bhagavad Gita]] – ancient [[Hinduism|Hindi]] scriptures saying all should do their [[Dharma]]
+- [[Yoga]] – ways to achieve [[Moksha]]
+	- [[Jnana Yoga]] – path of knowledge and awareness of one's own conscience
+	- [[Raja Yoga]] – path of control of self and mindfulness
+	- [[Karma Yoga]] – path of doing good
+	- **[[Bhakti Yoga]]** – path of loving worship and service to a god
+- **[[Brahma]]** – creator god
+- **[[Vishnu]]** – preserving god
+- **[[Shiva]]** – destroying god
+- **[[Krishna]]** – another god
+- **[[Daoism]]** – philosophy of "go with the flow"
+- **[[Lao Tzu]]** – founder of [[Daoism]]
+- **[[Chinese folk religion]]** – afterworld of bureaucracy, had set services for mourning death
+- **[[Golden Bridge]]** – leads to exit from cosmos
+- **[[Silver Bridge]]** – leads to heaven
+- **[[Jade Emperor]]** – emperor of heaven
+- **[[Sinicization]]** – the process of things becoming Chinese
+- **[[Mahayana Buddhism]]** – anyone can easily become enlightened
+- **[[Amitabha]]** – principal buddha of [[Pure Land Buddhism]]
+- **[[Boddhisatva]]** – an enlightened one
+- **[[Tibetan Buddhism]]** – offspring of [[Buddhism]] with physical things
+- **[[Dalai Lama]]** – leader of [[Tibetan Buddhism]]

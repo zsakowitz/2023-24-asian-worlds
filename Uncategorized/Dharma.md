@@ -1,0 +1,1 @@
+- Social obligations based on one's [[Varnas|varna]]

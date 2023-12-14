@@ -1,0 +1,4 @@
+- Produced in China
+- Very difficult to gather
+- Lucrative product
+- Waterwheels used to spin silk

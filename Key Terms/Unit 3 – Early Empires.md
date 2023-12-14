@@ -1,0 +1,46 @@
+## China
+
+- **[[Dynastic System]]** — when a family or clan rules for a long period of time
+- **[[Xia Dynasty]]** — zeroth Chinese dynasty, likely invented by historians
+- **[[Shang Dynasty]]** — first real Chinese dynasty
+- **[[Oracle Bones]]** — used by [[Shang Dynasty]] for divination purposes
+- **[[Zhou Dynasty]]** — longest lasting dynasty, split into two sections: west
+- **[[Mandate of Heaven]]** — idea that heaven declared when dynasties should rise and fall
+- **[[Sima Qian]]** — Chinese historian
+- **[[Records of the Grand Historian]]** — book written by [[Sima Qian]]
+- **[[Feudalism]]** — system where rulers give lesser rulers land in exchange for loyalty
+- **[[Warring States Period]]** — period of constant war between groups, [[Qin Dynasty]] won
+- **[[Confucius]]** — founder of Confucianism
+- **[[Confucianism]]** — belief system rooted in the importance of moral ethics and being good
+- **[[The Analects]]** — collection of sayings attributed to Confucius
+- **[[Filial Piety]]** — be good to parents and family and take care of them
+- **[[Five Cardinal Relationships]]** — ruler/subject, father/son, brothers, husband/wife, friends
+- **[[Han Fei-Tzu]]** — philosopher and statesmen for Legalism
+- **[[Qin Dynasty|Qin Dynasty]]** — very short dynasty, unified China and standardized writing system
+- **[[Qin Shi Huang]]** — founder of [[Qin Dynasty]]
+- **[[Standardization]]** — the process of unifying different ways of doing something into one
+- **[[Dynastic Cycle]]** — the cycle where dynasties rise and fall
+- **[[Han Dynasty]]** — the second imperial dynasty, followed the [[Qin Dynasty]]
+- **[[Liu Bang / Han Gaozu]]** — first emperor of the [[Han Dynasty]]
+- **[[Han Wudi]]** — 7th emperor of the [[Han Dynasty]], officially endorsed Confucianism
+- **[[Civil service exam]]** — system of testing to find government officials
+- **[[Xiongnu]]** — pastoral people who lived to the north of China
+- **[[Tribute system]]** — system where Han gave people and resources to [[Xiongnu]] in exchange for the Xiongnu to stop invading them
+- **[[He Qin Policy]]** — “peace through marriage”
+## South Asia
+
+- **[[Aryan Kingship]]** — system where Kshatriyas governed cities
+- **[[Mahajanapadas]]** — 16 kingdom-cities
+- **[[Alexander the Great]]** — ruler of the Greeks
+- **[[Magadah]]** — capital of the [[Mauryan Empire]]
+- **[[Mauryan Empire]]** — empire that conquered most of India
+- **[[Chandragupta Maurya]]** — first ruler of the [[Mauryan Empire]]
+- **[[Kautilya|Kautilya/Chanakya]]** — advisor to [[Chandragupta Maurya]], wrote the [[Arthashastra]]
+- **[[Arthashastra]]** — set of books detailing how to rule
+- **[[Asoka]]** — 3rd emperor of the [[Mauryan Empire]]
+- **[[Rock Edicts]]** — detailed edicts inscribed by [[Asoka]] on rocks across India
+- **[[Battle of Kalinga]]** — [[Asoka]] invaded Kalinga, then felt bad and became a Buddhist
+- **[[Kushan Empire]]** — empire formed by Yuezhi in Bactrian territories
+- **[[Greco-Bactrian/Gandharan Art]]** — art with both Greek and Bactrian influences
+- **[[Gupta Empire]]** — golden age after [[Mauryan Empire]] passed
+- Is next to [[China]]

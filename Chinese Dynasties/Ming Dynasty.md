@@ -1,0 +1,18 @@
+- Lasted from 1368 to 1644 CE
+- Founded by Buddhist monk [[Zhu Yuanzhang|Hongwu]], a member of [[Red Turbans]]
+	- Affiliated with the [[White Lotus]]
+	- Changed his name to [[Hongwu]]
+	- Allied with Confucian bureaucrats
+	- Killed 100,000 people he felt threatened by
+	- Chose grandson, [[Yongle Emperor]], as next ruler
+		- Grandson overthrown by [[Hongwu]]'s son
+- Replaced civil service exam as (lon/len?)
+- Decreased power of court eunuchs
+- Merchants put back into lower parts of society
+- Got rid of chancellery (like having a prime minister)
+- Most famous for [[Porcelain|porcelain]]
+- Reopened grand canal to transport grain south to north
+- Fought back against [[Treasure Voyages]]
+	- Disallowed ships with two masts
+	- Later, disallowed all oceangoing ships
+- Fought Vietnam to get wood to build the [[Forbidden City]] in Beijing

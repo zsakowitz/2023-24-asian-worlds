@@ -1,0 +1,13 @@
+- Born into [[Quraysh]] tribe
+	- Very powerful tribe
+	- Located in Arabia
+	- Controlled Mecca
+- Married [[Khadija]], a merchant of another powerful tribe
+- Had mysterious dreams and visions
+	- Consulted [[Khadija]], whose cousin said Muhammad was a [[Prophet|prophet]]
+- Preached [[Monotheism|monotheism]]
+- Disciples wrote his visions in the [[Qur'an]]
+- Disciples wrote his deeds in the [[Hadith]]
+- Took [[Mecca]] and the [[Ka'aba]] in 630 CE
+- Both a spiritual and political figure
+	- Compare to [[Jesus]], who was only a spiritual figure

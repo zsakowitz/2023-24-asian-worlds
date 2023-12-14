@@ -1,0 +1,5 @@
+- Jesuit priest who tried to convert Chinese
+- Thought Chinese practices were already Catholic enough
+- In 1601, became advisor to [[Ming Dynasty]]
+- Buried in China
+- One of a few foreigners allowed to see [[Forbidden City]]

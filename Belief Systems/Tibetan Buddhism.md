@@ -1,0 +1,2 @@
+- Vajrayana – "Diamond Vehicle"
+- Rituals were quick and focused

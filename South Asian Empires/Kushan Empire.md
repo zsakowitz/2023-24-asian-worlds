@@ -1,0 +1,5 @@
+- Chinese called people in this empire the [[Yuezhi]]
+- Pushed out of northwest China by the [[Xiongnu]]
+- Located in a center of major trade routes
+- First people to make stone carvings that showed the [[Buddha]]'s past lives
+- Before them, the [[Buddha]] was always indicated with a sign (empty chair, footsteps)
