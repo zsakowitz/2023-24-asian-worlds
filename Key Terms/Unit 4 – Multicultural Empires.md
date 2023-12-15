@@ -17,7 +17,7 @@
 - **[[Ming Dynasty]]** — A dynasty that receded from outside contact
 - **[[Yongle Emperor]]** — 3rd emperor of the [[Ming Dynasty]], fought against [[Treasure Voyages]]
 - **[[Zheng He]]** —
-- **[[Treasure Voyages]]** — Voyages conducted by China to p
+- **[[Treasure Voyages]]** — Voyages conducted by China to promote its identity
 - **[[Delhi Sultanate]]** — Muslim dynasties in South Asia, five existed, highly unstable
 - **[[Islam]]** — Monotheistic religion founded by [[Muhammad]]
 - **[[Five Pillars of Islam]]** — Declaring faith, praying, giving alms, fasting, and pilgrimage
@@ -36,6 +36,6 @@
 - **[[Shah Jahan]]** —
 - **[[Taj Mahal]]** —
 - **[[Sikhism|Sikhs / Sikhism]]** —
-- **[[Guru Nanak]]** —
+- **[[Guru Nanak]]** — The first [[Sikhism|Sikh]] guru and the founder of [[Sikhism]]
 - **[[5 K's]]** —
 - **[[Aurangzeb]]** — devout [[Islam|Muslim]] emperor who disallowed religious diversity

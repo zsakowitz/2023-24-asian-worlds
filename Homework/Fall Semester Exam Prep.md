@@ -94,10 +94,14 @@
 ### The role trade has played in the history of China and South Asia in the periods we studied
 
 **Evidence**
-- ev. 1
-- ev. 2
-- ev. 3
-- ...
+- People converted to [[Buddhism]] for trade purposes
+- Trade on the Silk Road spread [[Buddhism]] into China
+- Trade at [[Quanzhou]] led to multiculturalism there
+- [[Treasure Voyages]] led to trade, also led to China displaying power to world
+- [[Song Dynasty]] implemented paper money, allowing easier and more trackable trade
+- Commercial cities grew with restaurants and other amenities during [[Song Dynasty]]
+- [[Tang Dynasty]] golden age due to culture and art obtained from trade
+- Trade peaceful during [[Yuan Dynasty]] because of [[Mongols|Mongol]] rule
 
 **Topic Sentences**
 - topic sentence 1
