@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Belief Systems/Five Pillars of Islam.md",
+                "file": "Belief Systems/Buddhism.md",
                 "mode": "preview",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Muslim",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,17 +161,16 @@
   },
   "active": "60bbf7e11d288f98",
   "lastOpenFiles": [
-    "Belief Systems/Five Pillars of Islam.md",
-    "Belief Systems/Daoism.md",
-    "Homework/Fall Semester Exam Prep.md",
     "Belief Systems/Buddhism.md",
-    "General Notes.md",
+    "Belief Systems/Daoism.md",
     "Uncategorized/Zakat.md",
     "Uncategorized/Xiongnu.md",
-    "Uncategorized/Urdu.md",
+    "Uncategorized/Varnas.md",
+    "Homework/Fall Semester Exam Prep.md",
     "Uncategorized/Treasure Voyages.md",
-    "Uncategorized/Siyam.md",
+    "Uncategorized/Urdu.md",
     "Uncategorized/Strings of Cash.md",
+    "Uncategorized/Siyam.md",
     "Uncategorized/Sinicization.md",
     "Uncategorized/Silk.md",
     "Uncategorized/Shiva.md",
@@ -183,10 +182,11 @@
     "Uncategorized/PURR.md",
     "Uncategorized/Prophet.md",
     "Uncategorized/Porcelain.md",
-    "Uncategorized/Mosque.md",
     "Uncategorized/Oracle Bones.md",
+    "Uncategorized/Mosque.md",
     "Uncategorized/Moksha.md",
     "Uncategorized/Kshatriya.md",
+    "Uncategorized/Karma.md",
     "Untitled",
     "Eras",
     "LICENSE",

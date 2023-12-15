@@ -1,3 +1,2 @@
 - Advisor of [[Chandragupta Maurya]]
 - Wrote the [[Arthashastra]]
-- 

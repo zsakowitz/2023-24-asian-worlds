@@ -1,0 +1,2 @@
+- Tax imposed on non-[[Islam|Muslims]]
+- Incentivized people to convert to [[Islam]]
