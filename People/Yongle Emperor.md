@@ -1,2 +1,1 @@
 - Third emperor of [[Ming Dynasty]]
-- 

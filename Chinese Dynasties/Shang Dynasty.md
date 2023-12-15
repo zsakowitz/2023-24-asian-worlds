@@ -1,1 +1,1 @@
-Used [[Oracle Bones]] for divination
+- Used [[Oracle Bones]] for divination

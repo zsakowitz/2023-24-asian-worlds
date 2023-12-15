@@ -4,7 +4,7 @@
 - Believers typically located in East Asia
 ## Teachings
 
-- Socialsalvation through compassion
+- Social salvation through compassion
 - Compassion must be from a good heart
 - It must be action-driven, not just from the mind
 - [[Boddhisatva|Boddhisatvas]] attain [[Nirvana|nirvana]], die, and return as teachers for others

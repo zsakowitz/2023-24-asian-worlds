@@ -4,15 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "164119f79570384f",
+        "id": "4cbef0e1069cea34",
         "type": "tabs",
+        "dimension": 41.81472081218274,
         "children": [
           {
-            "id": "1b2f01a592bfcc73",
+            "id": "b117b9575db2aadb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "South Asian Empires/Delhi Sultanate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bd0badff8324eb58",
+        "type": "tabs",
+        "dimension": 58.185279187817265,
+        "children": [
+          {
+            "id": "60bbf7e11d288f98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework/Fall Semester Exam Prep.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Homework/Fall Semester Exam Prep.md"
+              }
             }
           }
         ]
@@ -141,35 +169,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b2f01a592bfcc73",
+  "active": "60bbf7e11d288f98",
   "lastOpenFiles": [
-    "Homework/Fall Semester Exam Prep.md",
-    "Untitled.md",
-    "Untitled",
-    "Uncategorized/Din-i-ilahi.md",
-    "Uncategorized/Urdu.md",
-    "Uncategorized/Shahada.md",
-    "Uncategorized/Siyam.md",
-    "Uncategorized/Zakat.md",
-    "Uncategorized/Junk.md",
-    "China.md",
-    "Key Terms/Unit 3 – Early Empires.md",
-    "Belief Systems/Five Pillars of Islam.md",
-    "Uncategorized/Ramadan.md",
-    "Uncategorized/Hajj.md",
-    "Uncategorized/Salat.md",
-    "Places/Map.md",
-    "Documents/Qur'an.md",
-    "Places/Mecca.md",
-    "Belief Systems/Islam.md",
-    "Places/Ka'aba.md",
-    "Uncategorized/Shiva.md",
-    "Places/Forbidden City.md",
-    "Homework/December 9.md",
-    "Belief Systems/Muslim.md",
-    "Key Terms/Unit 4 – Multicultural Empires.md",
-    "Uncategorized/Dhimmi.md",
     "South Asian Empires/Delhi Sultanate.md",
+    "South Asian Empires/Gupta Empire.md",
+    "South Asian Empires/South Asian Empires.md",
+    "Places/Yellow River.md",
+    "Homework/Fall Semester Exam Prep.md",
+    "Places/Silk Road.md",
+    "Places/Quanzhou.md",
+    "Places/Mecca.md",
+    "Places/Map.md",
+    "Places/Mahajanapadas.md",
+    "Places/Magadah.md",
+    "Places/Khyber Pass.md",
+    "Places/Ka'aba.md",
+    "Places/Hu Line.md",
+    "Places/Harappan Civilization.md",
+    "Places/Forbidden City.md",
+    "Places/Chinese Landscape.md",
+    "People/Yongle Emperor.md",
+    "People/Sufis.md",
+    "People/Sima Qian.md",
+    "People/Quraysh.md",
+    "People/Muhammad.md",
+    "People/Matteo Ricci.md",
+    "People/Marco Polo.md",
+    "People/Manu.md",
+    "People/Kautilya.md",
+    "Untitled",
     "Eras",
     "LICENSE",
     "Uncategorized",

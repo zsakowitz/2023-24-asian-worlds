@@ -1,6 +1,3 @@
-## Mauryan Empire
-
-## Kushan Empire
-
-## Gupta Empire
-
+1. [[Mauryan Empire]]
+2. [[Kushan Empire]]
+3. [[Gupta Empire]]

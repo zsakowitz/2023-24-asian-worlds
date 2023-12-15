@@ -31,6 +31,6 @@ aliases:
 - **[[Theocratic]]** – a state where God is said to control all power and those in power are just people carrying out God's edicts
 - **[[Caliph]]** – the leader of the Islamic state
 - **[[Paganism]]** – belief in something other than Islam (viewpoint taken by Muslims)
-- **[[Jizya]]** – non-Muslims who were taxed to encourage them to convert
+- **[[Jizya]]** – tax on non-Muslims to encourage them to convert
 - **[[Egalitarian]]** – accepting diverse cultures and people during expansion
 - **[[Proselytizing]]** – worshipping a single God and seeing everyone as equal (?)

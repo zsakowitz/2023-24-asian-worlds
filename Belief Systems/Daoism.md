@@ -1,4 +1,3 @@
-
 - An individual's way must flow with the universe
 - Acting with intention interferes with natural flow
 - Founded by [[Lao Tzu]]
