@@ -39,7 +39,15 @@
 **Evidence**
 - Mountainous terrain in China separating 98% of the population across Hu Line
 - Roads built in China to easily traverse terrain, set up postal service
-- 
+- Challenge of growing rice influence culture
+- North China more wheat/meat based, south more rice/fish based
+- Harappan civilization living during Goldilocks period of river height
+- Khyber Pass concentrating travels in a single place
+- Magadah rising to power due to wood, minerals, and elephants nearby
+- Dams built to control flooding in China
+- Quanzhou becoming a trade center due to strategic location
+- Silk Road was important to control
+- Mongols improving land routes
 
 **Topic Sentences**
 - topic sentence 1
@@ -54,10 +62,9 @@
 ### The role religion has played in the history of China and South Asia in the periods we studied
 
 **Evidence**
-- ev. 1
-- ev. 2
-- ev. 3
-- ...
+- Buddhism helping people in China believe in happiness during [[Warring States Period]]
+- Islam's five pillars giving [[Islam|Muslims]] a shared sense of identity, especially [[hajj]]
+- 
 
 **Topic Sentences**
 - topic sentence 1

@@ -1,7 +1,6 @@
 ---
 location: [24.865364488111503,118.68278497326595]
 ---
-
 - Major trade center
 - Located on southeastern coast of China
 - Government regulations of trade around Quanzhou were thorough

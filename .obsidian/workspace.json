@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Governmental Systems/Legalism.md",
-                "mode": "source",
+                "file": "Belief Systems/Five Pillars of Islam.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,14 +74,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "3d0e5ae7a263c168",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -103,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Governmental Systems/Legalism.md",
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Governmental Systems/Legalism.md",
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Governmental Systems/Legalism.md"
+                "file": "Homework/Fall Semester Exam Prep.md"
               }
             }
           }
@@ -167,34 +159,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4aff643f011aa0a",
+  "active": "60bbf7e11d288f98",
   "lastOpenFiles": [
-    "Homework/December 9.md",
-    "Governmental Systems/Legalism.md",
-    "Eras/Warring States Period.md",
-    "Eras/Three Kingdoms Period.md",
-    "Eras/Period of Division.md",
-    "Documents/Vedas.md",
-    "Documents/Rock Edicts.md",
-    "Documents/Records of the Grand Historian.md",
-    "Documents/Qur'an.md",
-    "Documents/Laws of Manu.md",
-    "Documents/Han Fei-Tzu.md",
-    "Documents/Arthashastra.md",
-    "Chinese Dynasties/Zhou Dynasty.md",
-    "Chinese Dynasties/Yuan Dynasty.md",
-    "Chinese Dynasties/Xia Dynasty.md",
-    "Chinese Dynasties/Tang Dynasty.md",
-    "DBQs/DBQ 4 – 00 Requirements.md",
-    "Chinese Dynasties/Sui Dynasty.md",
-    "Chinese Dynasties/Song Dynasty.md",
-    "Chinese Dynasties/Shang Dynasty.md",
-    "Chinese Dynasties/Qin Dynasty.md",
+    "Belief Systems/Five Pillars of Islam.md",
+    "Belief Systems/Daoism.md",
     "Homework/Fall Semester Exam Prep.md",
-    "Chinese Dynasties/Ming Dynasty.md",
-    "Chinese Dynasties/Han Dynasty.md",
-    "Chinese Dynasties/Chinese Dynasties.md",
-    "Belief Systems/Vedism.md",
+    "Belief Systems/Buddhism.md",
+    "General Notes.md",
+    "Uncategorized/Zakat.md",
+    "Uncategorized/Xiongnu.md",
+    "Uncategorized/Urdu.md",
+    "Uncategorized/Treasure Voyages.md",
+    "Uncategorized/Siyam.md",
+    "Uncategorized/Strings of Cash.md",
+    "Uncategorized/Sinicization.md",
+    "Uncategorized/Silk.md",
+    "Uncategorized/Shiva.md",
+    "Uncategorized/Shari'ah.md",
+    "Uncategorized/Shahada.md",
+    "Uncategorized/Samsara.md",
+    "Uncategorized/Salat.md",
+    "Uncategorized/Ramadan.md",
+    "Uncategorized/PURR.md",
+    "Uncategorized/Prophet.md",
+    "Uncategorized/Porcelain.md",
+    "Uncategorized/Mosque.md",
+    "Uncategorized/Oracle Bones.md",
+    "Uncategorized/Moksha.md",
+    "Uncategorized/Kshatriya.md",
     "Untitled",
     "Eras",
     "LICENSE",
