@@ -1,5 +1,3 @@
-## Leaders
-
-1. Founded by [[Chandragupta Maurya]]
-2. [[Chandragupta Maurya]]'s son, but he was ineffective
-3. [[Asoka]], a strong and powerful ruler
+- Founded by [[Chandragupta Maurya]]
+- Next ruler was [[Chandragupta Maurya]]'s son, but he was ineffective
+- 3rd was [[Asoka]], a strong and powerful ruler

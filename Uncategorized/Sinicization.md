@@ -1,2 +1,1 @@
 - The process of things adapting to Chinese culture
-- 

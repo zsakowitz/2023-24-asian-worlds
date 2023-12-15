@@ -3,5 +3,5 @@
 - Moved away from Greco-Roman styles
 - Lots of trade
 - Art, a strong economy, math, and hospitals were present
-- [[Mahabharata]] canonized
-- Invented Chess
+- [[Mahabhrata]] canonized
+- Invented chess

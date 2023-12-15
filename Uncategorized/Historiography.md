@@ -1,1 +1,1 @@
-- the study of how past historians described their times
+- The study of how past historians described their times

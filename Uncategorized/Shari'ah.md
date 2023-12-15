@@ -1,0 +1,1 @@
+- [[Islam|Islamic]] law

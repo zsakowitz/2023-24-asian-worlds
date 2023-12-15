@@ -1,0 +1,1 @@
+- Mantra: if people get heavily punished for breaches of law, the country will be perfect
