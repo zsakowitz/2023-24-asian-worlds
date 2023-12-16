@@ -1,0 +1,3 @@
+- Started by [[An Lushan]], a military general during the [[Tang Dynasty]]
+- [[An Lushan]] marched armies into [[Beijing]]
+- 

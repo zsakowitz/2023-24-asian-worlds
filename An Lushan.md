@@ -1,0 +1,2 @@
+- Military general during [[Tang Dynasty]]
+- Started the [[An Lushan Rebellion]]
