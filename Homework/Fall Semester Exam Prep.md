@@ -116,6 +116,7 @@
 **Evidence for South Asia**
 
 **Evidence in General**
+- Trade on the [[Silk Road]] led to Buddhism moving from South Asia to China
 
 **Topic Sentences**
 - topic sentence 1
