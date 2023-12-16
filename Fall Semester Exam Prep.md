@@ -58,7 +58,9 @@
 - [[Silk Road]] was important to control
 
 **Topic Sentences**
-- China and South Asia : China by building dams and irrigation fields to control the flow of water
+- Water was an important aspect of both China and Harappan Civilizations: China used irrigation fields and dams to control it, while Harappan civilization only existed during a brief window of ideal water levels.
+- The positioning of cities was important to both China and South Asia; China's port of Quanzhou was only able to be so successful due to its position near the ocean, and South Asia's Magadah rose to power in part due to the wood and minerals available nearby.
+- 
 
 **Thesis Statements**
 - thesis 1
