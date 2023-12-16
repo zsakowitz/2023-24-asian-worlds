@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2534f2ee3b84f71d",
+        "id": "a44fcd23f89c09dd",
         "type": "tabs",
         "children": [
           {
-            "id": "b0620304b1f009b2",
+            "id": "620ce51c63f7048c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Homework/Fall Semester Exam Prep.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Homework/Fall Semester Exam Prep.md"
+              }
             }
           }
         ]
@@ -141,8 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ae1c20565318ab5",
+  "active": "620ce51c63f7048c",
   "lastOpenFiles": [
+    "Homework/Unit 4 Reading Quiz.md",
+    "Key Terms/Unit 1 – Geography.md",
     "Chinese Dynasties/Xia Dynasty.md",
     "Chinese Dynasties/00 – Chinese Dynasties.md",
     "Chinese Dynasties/Sui Dynasty.md",
@@ -167,8 +177,6 @@
     "Uncategorized/Shari'ah.md",
     "Uncategorized/Shahada.md",
     "Uncategorized/Samsara.md",
-    "Uncategorized/Salat.md",
-    "Uncategorized/Ramadan.md",
     "Untitled",
     "Eras",
     "LICENSE",
