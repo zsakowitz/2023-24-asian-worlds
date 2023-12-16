@@ -114,6 +114,7 @@
 - Trade peaceful during [[Yuan Dynasty]] because of [[Mongols|Mongol]] rule
 
 **Evidence for South Asia**
+- Trade across the [[Indian Ocean]] helped move Islam into South Asia
 
 **Evidence in General**
 - Trade on the [[Silk Road]] led to Buddhism moving from South Asia to China
