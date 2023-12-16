@@ -32,7 +32,7 @@
 - China and South Asia both used cross-cultural marriage policies to stay in power and retain peace.
 - China's [[treasure voyages]] and Islam's conquering of South Asia both aided their respective proponents in increasing and displaying their power.
 - Both China and India coalesced different religions into one to unify themselves: China with [[Daoism]], [[Confucianism]], and [[Buddhism]], and India with [[Brahmanism]] and [[Buddhism]].
-- Both China and India converted people from outside of their cultures 
+- Visitors to both China and India adapted to the 
 
 **Thesis Statements**
 - thesis 1
