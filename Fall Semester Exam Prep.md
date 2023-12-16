@@ -58,7 +58,7 @@
 - [[Silk Road]] was important to control
 
 **Topic Sentences**
-- China and India both modified their environment to better support themselves: China by building dams and steppes to 
+- China and South Asia : China by building dams and irrigation fields to control the flow of water
 
 **Thesis Statements**
 - thesis 1
