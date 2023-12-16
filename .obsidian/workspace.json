@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fe08f0b3c33f42",
+        "id": "8f0653fb3129c10e",
         "type": "tabs",
         "children": [
           {
-            "id": "60bbf7e11d288f98",
+            "id": "d59de78a5951e5da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,6 +55,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "0dfc3f36923a0894",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -141,10 +149,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60bbf7e11d288f98",
+  "active": "d59de78a5951e5da",
   "lastOpenFiles": [
-    "General Notes.md",
     "Homework/Fall Semester Exam Prep.md",
+    "General Notes.md",
     "Uncategorized/Zakat.md",
     "Uncategorized/Xiongnu.md",
     "Uncategorized/Varnas.md",
