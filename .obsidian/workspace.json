@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a44fcd23f89c09dd",
+        "id": "5e5c78e8d4fba201",
         "type": "tabs",
         "children": [
           {
-            "id": "620ce51c63f7048c",
+            "id": "ee2f56156656f58a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homework/Fall Semester Exam Prep.md",
+                "file": "Fall Semester Exam Prep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Fall Semester Exam Prep.md",
+                "file": "Fall Semester Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Fall Semester Exam Prep.md",
+                "file": "Fall Semester Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homework/Fall Semester Exam Prep.md"
+                "file": "Fall Semester Exam Prep.md"
               }
             }
           }
@@ -149,10 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "620ce51c63f7048c",
+  "active": "ee2f56156656f58a",
   "lastOpenFiles": [
+    "Uncategorized/Brahman.md",
+    "Fall Semester Exam Prep.md",
+    "Uncategorized/He Qin Policy.md",
     "Chinese Dynasties/Song Dynasty.md",
-    "Homework/Fall Semester Exam Prep.md",
     "Homework/Unit 3 Test.md",
     "Uncategorized/Ghazal.md",
     "People/Mongols.md",
@@ -175,8 +177,6 @@
     "Uncategorized/Strings of Cash.md",
     "Uncategorized/Siyam.md",
     "Uncategorized/Sinicization.md",
-    "Uncategorized/Silk.md",
-    "Uncategorized/Shiva.md",
     "Untitled",
     "Eras",
     "LICENSE",
