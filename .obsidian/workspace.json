@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "road",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -151,8 +152,9 @@
   },
   "active": "ee2f56156656f58a",
   "lastOpenFiles": [
-    "Places/Silk Road.md",
+    "People/Asoka.md",
     "Fall Semester Exam Prep.md",
+    "Places/Silk Road.md",
     "Uncategorized/He Qin Policy.md",
     "Uncategorized/Brahman.md",
     "Chinese Dynasties/Song Dynasty.md",
@@ -176,7 +178,6 @@
     "Uncategorized/Urdu.md",
     "Uncategorized/Treasure Voyages.md",
     "Uncategorized/Strings of Cash.md",
-    "Uncategorized/Siyam.md",
     "Untitled",
     "Eras",
     "LICENSE",
