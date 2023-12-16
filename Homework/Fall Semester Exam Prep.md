@@ -8,6 +8,7 @@
 - China's [[junk]] ships allowing more trade worldwide
 - [[Treasure Voyages]] spreading China's influence and interacting with other cultures
 - [[Quanzhou]] as a center of trade bringing people in from all over
+- China implementing the [[He Qin Policy]] to keep out Xiongnu
 
 **Evidence for South Asia**
 - [[Islam]] spread from Arabia to South Asian
@@ -27,8 +28,8 @@
 - Culture spread to make golden ages during [[Song Dynasty]] and [[Gupta Empire]]
 
 **Topic Sentences**
-- Cross-cultural interactions led to Buddhism and Islam spreading throughout China and South Asia.
-- topic sentence 2
+- Cross-cultural interactions and something else led to Buddhism and Islam spreading throughout China and South Asia.
+- China and South Asia both used cross-cultural marriage policies to stay in power and retain peace.
 - topic sentence 3
 - ...
 
