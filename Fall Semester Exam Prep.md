@@ -29,7 +29,7 @@
 
 **Topic Sentences**
 - Cross-cultural interactions and something else led to Buddhism and Islam spreading throughout China and South Asia.
-- China and South Asia both used cross-cultural marriage policies to stay in power and retain peace; China with the heqin policy to keep out the XIong
+- China and South Asia both used cross-cultural marriage policies to stay in power and retain peace; China with the [[He Qin Policy]] to keep out the Xiongnu, and Akbar in India using it to
 - China's [[treasure voyages]] and Islam's conquering of South Asia both aided their respective proponents in increasing and displaying their power.
 - Both China and India coalesced different religions into one to unify themselves: China with [[Daoism]], [[Confucianism]], and [[Buddhism]], and India with [[Brahmanism]] and [[Buddhism]].
 - Both India and China adapted visitors to fit to their cultures, showing the strength of their cultural influence on the outside world; Matteo Ricci became an advisor to China and Akbar merged India's native religion of Hinduism 
