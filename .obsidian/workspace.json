@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40831a618cebf0e4",
+        "id": "2534f2ee3b84f71d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5ba484af403a1aa",
+            "id": "b0620304b1f009b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homework/Fall Semester Exam Prep.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Fall Semester Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homework/Fall Semester Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Homework/Fall Semester Exam Prep.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,15 +141,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5ba484af403a1aa",
+  "active": "8ae1c20565318ab5",
   "lastOpenFiles": [
+    "Chinese Dynasties/Xia Dynasty.md",
+    "Chinese Dynasties/00 – Chinese Dynasties.md",
+    "Chinese Dynasties/Sui Dynasty.md",
+    "Homework/Fall Semester Exam Prep.md",
+    "Chinese Dynasties/Song Dynasty.md",
     "README.md",
     "General Notes.md",
     "People/Akbar.md",
     "People/An Lushan.md",
     "Uncategorized/An Lushan Rebellion.md",
     "Uncategorized/Battle of Talas.md",
-    "Homework/Fall Semester Exam Prep.md",
     "Uncategorized/Zakat.md",
     "Uncategorized/Xiongnu.md",
     "Uncategorized/Varnas.md",
@@ -173,10 +169,6 @@
     "Uncategorized/Samsara.md",
     "Uncategorized/Salat.md",
     "Uncategorized/Ramadan.md",
-    "Uncategorized/PURR.md",
-    "Uncategorized/Prophet.md",
-    "Uncategorized/Porcelain.md",
-    "Uncategorized/Oracle Bones.md",
     "Untitled",
     "Eras",
     "LICENSE",
