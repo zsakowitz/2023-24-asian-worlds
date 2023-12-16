@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "98f47534fed58b47",
+        "id": "40831a618cebf0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "50753a1d0cdf0afc",
+            "id": "d5ba484af403a1aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An Lushan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b23a3e8780dbd727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "An Lushan Rebellion.md",
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "An Lushan Rebellion.md",
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "An Lushan Rebellion.md",
+                "file": "Homework/Fall Semester Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "An Lushan Rebellion.md"
+                "file": "Homework/Fall Semester Exam Prep.md"
               }
             }
           }
@@ -162,13 +149,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b23a3e8780dbd727",
+  "active": "d5ba484af403a1aa",
   "lastOpenFiles": [
-    "An Lushan.md",
-    "An Lushan Rebellion.md",
-    "Battle of Talas.md",
-    "Homework/Fall Semester Exam Prep.md",
+    "README.md",
     "General Notes.md",
+    "People/Akbar.md",
+    "People/An Lushan.md",
+    "Uncategorized/An Lushan Rebellion.md",
+    "Uncategorized/Battle of Talas.md",
+    "Homework/Fall Semester Exam Prep.md",
     "Uncategorized/Zakat.md",
     "Uncategorized/Xiongnu.md",
     "Uncategorized/Varnas.md",
@@ -188,8 +177,6 @@
     "Uncategorized/Prophet.md",
     "Uncategorized/Porcelain.md",
     "Uncategorized/Oracle Bones.md",
-    "Uncategorized/Mosque.md",
-    "Uncategorized/Moksha.md",
     "Untitled",
     "Eras",
     "LICENSE",

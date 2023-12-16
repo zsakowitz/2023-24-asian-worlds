@@ -1,3 +1,4 @@
 - Started by [[An Lushan]], a military general during the [[Tang Dynasty]]
 - [[An Lushan]] marched armies into [[Beijing]]
-- 
+- Started the short-lived [[Yan Dynasty]]
+- An estimated 13-36 million people died as a result
