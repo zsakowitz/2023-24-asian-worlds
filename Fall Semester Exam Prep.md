@@ -58,10 +58,7 @@
 - [[Silk Road]] was important to control
 
 **Topic Sentences**
-- topic sentence 1
-- topic sentence 2
-- topic sentence 3
-- ...
+- China and India both modified their environment 
 
 **Thesis Statements**
 - thesis 1
