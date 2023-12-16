@@ -30,8 +30,8 @@
 **Topic Sentences**
 - Cross-cultural interactions and something else led to Buddhism and Islam spreading throughout China and South Asia.
 - China and South Asia both used cross-cultural marriage policies to stay in power and retain peace.
-- China's Treasure Voyages and Islam's p
-- ...
+- China's treasure voyages and Islam's conquering of South Asia both aided their respective proponents in displaying power while having different goals with respect to permanancy.
+- 
 
 **Thesis Statements**
 - thesis 1
