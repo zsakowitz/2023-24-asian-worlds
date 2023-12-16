@@ -27,7 +27,7 @@
 - Culture spread to make golden ages during [[Song Dynasty]] and [[Gupta Empire]]
 
 **Topic Sentences**
-- topic sentence 1
+- Cross-cultural interactions led to Buddhism and Islam spreading throughout China and South Asia.
 - topic sentence 2
 - topic sentence 3
 - ...
