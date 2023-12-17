@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese Dynasties/Chinese Dynasties.md",
-                "mode": "preview",
+                "file": "Fall Semester Exam Prep.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chinese Dynasties/Chinese Dynasties.md",
+                "file": "Fall Semester Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chinese Dynasties/Chinese Dynasties.md",
+                "file": "Fall Semester Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chinese Dynasties/Chinese Dynasties.md"
+                "file": "Fall Semester Exam Prep.md"
               }
             }
           }
@@ -149,8 +149,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ae1c20565318ab5",
+  "active": "ee2f56156656f58a",
   "lastOpenFiles": [
+    "Chinese Dynasties/Chinese Dynasties.md",
     "South Asian Empires/South Asian Empires.md",
     "Fall Semester Exam Prep.md",
     "Belief Systems/Vedism.md",
@@ -167,7 +168,6 @@
     "Homework/Unit 4 Reading Quiz.md",
     "Key Terms/Unit 1 – Geography.md",
     "Chinese Dynasties/Xia Dynasty.md",
-    "Chinese Dynasties/Chinese Dynasties.md",
     "Chinese Dynasties/Sui Dynasty.md",
     "README.md",
     "General Notes.md",

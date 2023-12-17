@@ -121,7 +121,7 @@
 - Trade on the [[Silk Road]] led to Buddhism moving from South Asia to China
 
 **Topic Sentences**
-- topic sentence 1
+- Trading led to the spread of religion across China and South Asia; China got [[Buddhism]] by trading with people from [[]]
 - topic sentence 2
 - topic sentence 3
 - ...
