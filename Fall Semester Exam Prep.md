@@ -116,13 +116,15 @@
 
 **Evidence for South Asia**
 - Trade across the [[Indian Ocean]] helped move Islam into South Asia
+- India traded spices with China
 
 **Evidence in General**
 - Trade on the [[Silk Road]] led to Buddhism moving from South Asia to China
+- Peop
 
 **Topic Sentences**
-- Trading led to the spread of religion across China and South Asia; China got [[Buddhism]] by trading with people from [[]]
-- topic sentence 2
+- Trading led to the spread of religion across China and South Asia; China got [[Buddhism]] by trading with people from South Asia, and South Asia got [[Islam]] by trading with people from Saudi Arabia.
+- 
 - topic sentence 3
 - ...
 

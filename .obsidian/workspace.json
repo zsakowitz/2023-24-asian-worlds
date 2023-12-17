@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff1e22d9d8efe333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBQs/DBQ 4 – 01 Sources.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -151,9 +163,11 @@
   },
   "active": "ee2f56156656f58a",
   "lastOpenFiles": [
+    "DBQs/DBQ 4 – 01 Sources.md",
+    "Fall Semester Exam Prep.md",
+    "DBQs/DBQ 4 – 00 Requirements.md",
     "Chinese Dynasties/Chinese Dynasties.md",
     "South Asian Empires/South Asian Empires.md",
-    "Fall Semester Exam Prep.md",
     "Belief Systems/Vedism.md",
     "Untitled.md",
     "Belief Systems/Hinduism.md",
@@ -175,8 +189,6 @@
     "People/An Lushan.md",
     "Uncategorized/An Lushan Rebellion.md",
     "Uncategorized/Battle of Talas.md",
-    "Uncategorized/Zakat.md",
-    "Uncategorized/Xiongnu.md",
     "Untitled",
     "Eras",
     "LICENSE",
