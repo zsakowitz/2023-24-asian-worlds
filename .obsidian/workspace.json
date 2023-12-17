@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall Semester Exam Prep.md",
+                "file": "DBQs/DBQ 4 – 01 Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall Semester Exam Prep.md",
+                "file": "DBQs/DBQ 4 – 01 Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall Semester Exam Prep.md"
+                "file": "DBQs/DBQ 4 – 01 Sources.md"
               }
             }
           }
@@ -161,10 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee2f56156656f58a",
+  "active": "ff1e22d9d8efe333",
   "lastOpenFiles": [
-    "DBQs/DBQ 4 – 01 Sources.md",
     "Fall Semester Exam Prep.md",
+    "DBQs/DBQ 4 – 01 Sources.md",
     "DBQs/DBQ 4 – 00 Requirements.md",
     "Chinese Dynasties/Chinese Dynasties.md",
     "South Asian Empires/South Asian Empires.md",

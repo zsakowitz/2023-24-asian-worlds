@@ -113,6 +113,7 @@
 - Commercial cities grew with restaurants and other amenities during [[Song Dynasty]]
 - [[Tang Dynasty]] golden age due to culture and art obtained from trade
 - Trade peaceful during [[Yuan Dynasty]] because of [[Mongols|Mongol]] rule
+- Porcelain and silk produced in China
 
 **Evidence for South Asia**
 - Trade across the [[Indian Ocean]] helped move Islam into South Asia
@@ -120,7 +121,7 @@
 
 **Evidence in General**
 - Trade on the [[Silk Road]] led to Buddhism moving from South Asia to China
-- Peop
+- People would always come back to [[Quanzhou]]
 
 **Topic Sentences**
 - Trading led to the spread of religion across China and South Asia; China got [[Buddhism]] by trading with people from South Asia, and South Asia got [[Islam]] by trading with people from Saudi Arabia.
