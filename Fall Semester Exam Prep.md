@@ -94,9 +94,8 @@
 
 **Topic Sentences**
 - Religion has been used to unify and govern populations throughout China and South Asia; China's [[Confucianism]] imposed social norms on the population that people held each other to, and South Asia mixed the religions its people previously believed in into [[Hinduism]], which had the added benefit of using the caste system to keep [[Brahmins]] in power.
-- Religion in China and South Asia helped people believe their conditions might improve during hard times; [[Buddhism]] uncoincidentally migrated to China
+- Religion in China and South Asia helped people believe their conditions might improve during hard times; [[Buddhism]] migrated to China during a period of intense war, and [[Hinduism]] helped people in South Asia believe that their conditions would get better in a future life.
 - topic sentence 3
-- ...
 
 **Thesis Statements**
 - thesis 1
