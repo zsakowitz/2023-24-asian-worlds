@@ -93,7 +93,7 @@
 - People converted religions for trade purposes
 
 **Topic Sentences**
-- topic sentence 1
+- Religion has been used to unify and govern populations throughout China and South Asia; China used [[Confucianism]] to dictate social norms and South Asia used [[Hinduism]]
 - topic sentence 2
 - topic sentence 3
 - ...
