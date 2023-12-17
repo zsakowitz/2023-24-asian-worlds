@@ -1,3 +1,6 @@
-1. [[Mauryan Empire]]
-2. [[Kushan Empire]]
-3. [[Gupta Empire]]
+
+![[Mauryan Empire]]
+
+![[Kushan Empire]]
+
+![[Gupta Empire]]

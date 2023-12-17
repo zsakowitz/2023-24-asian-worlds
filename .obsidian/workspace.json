@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall Semester Exam Prep.md",
-                "mode": "source",
+                "file": "Chinese Dynasties/Chinese Dynasties.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fall Semester Exam Prep.md",
+                "file": "Chinese Dynasties/Chinese Dynasties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fall Semester Exam Prep.md",
+                "file": "Chinese Dynasties/Chinese Dynasties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fall Semester Exam Prep.md"
+                "file": "Chinese Dynasties/Chinese Dynasties.md"
               }
             }
           }
@@ -149,10 +149,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee2f56156656f58a",
+  "active": "8ae1c20565318ab5",
   "lastOpenFiles": [
-    "Belief Systems/Vedism.md",
+    "South Asian Empires/South Asian Empires.md",
     "Fall Semester Exam Prep.md",
+    "Belief Systems/Vedism.md",
     "Untitled.md",
     "Belief Systems/Hinduism.md",
     "People/Asoka.md",
@@ -166,7 +167,7 @@
     "Homework/Unit 4 Reading Quiz.md",
     "Key Terms/Unit 1 – Geography.md",
     "Chinese Dynasties/Xia Dynasty.md",
-    "Chinese Dynasties/00 – Chinese Dynasties.md",
+    "Chinese Dynasties/Chinese Dynasties.md",
     "Chinese Dynasties/Sui Dynasty.md",
     "README.md",
     "General Notes.md",
@@ -176,7 +177,6 @@
     "Uncategorized/Battle of Talas.md",
     "Uncategorized/Zakat.md",
     "Uncategorized/Xiongnu.md",
-    "Uncategorized/Varnas.md",
     "Untitled",
     "Eras",
     "LICENSE",

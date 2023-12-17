@@ -96,7 +96,7 @@
 - Religion has been used to unify and govern populations throughout China and South Asia; China's [[Confucianism]] imposed social norms on the population that people held each other to, and South Asia mixed the religions its people previously believed in into [[Hinduism]], which had the added benefit of using the caste system to keep [[Brahmins]] in power.
 - Religion in China and South Asia helped people believe their conditions might improve during hard times; [[Buddhism]] migrated to China during a period of intense war, and [[Hinduism]] helped people in South Asia believe that their conditions would get better in a future life.
 - Religion shaped people's views on the world throughout China and South Asia; merchants were viewed very differently in China under different variants of [[Confucianism]], and the caste system South Asia inherited from [[Vedism]] affected how people of different castes saw each other.
-- Having different religious beliefs than the norm alienated people from their communities, such as when 
+- Having different religious beliefs than the norm alienated people from their communities, such as when Neo-Confucianists began to emerge in China who believed merchants were real, or when [[Akbar]] started his own religion in South Asia.
 
 **Thesis Statements**
 - thesis 1
