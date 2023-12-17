@@ -125,7 +125,6 @@
 
 **Topic Sentences**
 - Trading led to the spread of religion across China and South Asia; China got [[Buddhism]] by trading with people from South Asia, and South Asia got [[Islam]] by trading with people from Saudi Arabia.
-- 
 
 **Thesis Statements**
 - thesis 1
