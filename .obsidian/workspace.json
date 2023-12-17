@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,8 +151,9 @@
   },
   "active": "ee2f56156656f58a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Belief Systems/Vedism.md",
     "Fall Semester Exam Prep.md",
+    "Untitled.md",
     "Belief Systems/Hinduism.md",
     "People/Asoka.md",
     "Places/Silk Road.md",
@@ -176,7 +177,6 @@
     "Uncategorized/Zakat.md",
     "Uncategorized/Xiongnu.md",
     "Uncategorized/Varnas.md",
-    "Uncategorized/Urdu.md",
     "Untitled",
     "Eras",
     "LICENSE",
