@@ -1,20 +1,40 @@
-## Question 23 – DBQ
+*(the directions and prompt may be licensed differently than the rest of this repository, and are quoted materials from my school)*
+## Part II – Document Based Question
+
+### Directions
 
 **Directions:** In 5-7 sentences, respond to the prompt below. Be sure to cite evidence from the source itself in your response. While it is not required, you may find it useful to structure your response in a TEA for 2 format, with a strong topic sentence that you defend with at least two pieces of evidence and your analysis/reasoning. 
 
-**Prompt: According to Emperor Wuzong, what is the impact Buddhism is having on China? In his view, what is the appropriate response for the government to take?**
+**Prompt:** According to Emperor Wuzong, what is the impact Buddhism is having on China? In his view, what is the appropriate response for the government to take?
 
----
+*The following edict is from Emperor Wuzong (r. 841-846) of the Tang Dynasty.*
 
- _The following edict is from Emperor Wuzong (r. 841-846) of the Tang Dynasty._  
-   
-It was only from the Han and Wei on that the religion of idols [Buddhism] gradually came to prominence. So in this latter age it has transmitted its strange ways, instilling its infection with every opportunity, spreading like a luxuriant vine, until it has poisoned the customs of our nation; gradually, and before anyone was aware, it beguiled [deceived] and confounded men’s minds so that the multitude have been increasingly led astray. It has spread to the hills and plains of all the nine provinces and through the walls and towers of our two capitals. Each day finds its monks and followers growing more numerous and its temples more lofty. It wears out the strength of the people with constructions of earth and wood, pilfers their wealth for ornaments of gold and precious objects, causes men to abandon their lords and parents for the company of teachers, and severs man and wife with its monastic decrees. In destroying law and injuring mankind, indeed, nothing surpasses this doctrine!  
-   
-Now if even one man fails to work the fields, someone must go hungry; if one woman does not tend her silkworms, someone will be cold. At present there are an inestimable number of monks and nuns in the empire, each of them waiting for the farmers to feed him and the silkworms to clothe him, while the public temples and private chapels have reached boundless numbers, all with soaring towers and elegant ornamentation sufficient to outshine the imperial palace itself.  
-   
-If Buddhism is completely abolished now, who will say that the action is not timely? Already more than 100,000 idle and unproductive Buddhist followers have been expelled, and countless of their gaudy, useless buildings destroyed. Henceforth We may guide the people in stillness and purity, cherish the principle of doing nothing, order Our government with simplicity and ease, and achieve a unification of customs so that the multitudes of all realms will find their destination in Our august [impressive] rule.
+> It was only from the Han and Wei on that the religion of idols [Buddhism] gradually came to prominence. So in this latter age it has transmitted its strange ways, instilling its infection with every opportunity, spreading like a luxuriant vine, until it has poisoned the customs of our nation; gradually, and before anyone was aware, it beguiled [deceived] and confounded men’s minds so that the multitude have been increasingly led astray. It has spread to the hills and plains of all the nine provinces and through the walls and towers of our two capitals. Each day finds its monks and followers growing more numerous and its temples more lofty. It wears out the strength of the people with constructions of earth and wood, pilfers their wealth for ornaments of gold and precious objects, causes men to abandon their lords and parents for the company of teachers, and severs man and wife with its monastic decrees. In destroying law and injuring mankind, indeed, nothing surpasses this doctrine!
+> 
+> Now if even one man fails to work the fields, someone must go hungry; if one woman does not tend her silkworms, someone will be cold. At present there are an inestimable number of monks and nuns in the empire, each of them waiting for the farmers to feed him and the silkworms to clothe him, while the public temples and private chapels have reached boundless numbers, all with soaring towers and elegant ornamentation sufficient to outshine the imperial palace itself.
+> 
+> If Buddhism is completely abolished now, who will say that the action is not timely? Already more than 100,000 idle and unproductive Buddhist followers have been expelled, and countless of their gaudy, useless buildings destroyed. Henceforth We may guide the people in stillness and purity, cherish the principle of doing nothing, order Our government with simplicity and ease, and achieve a unification of customs so that the multitudes of all realms will find their destination in Our august [impressive] rule.
+
+### My Answer
 
 Emperor Wuzong believed Buddhism was having a negative effect on China, and believed that exterminating Buddhists from China would be the best path forward. Wuzong believed that Buddhists "waited for [others] to feed [and] clothe them", showing that they were not doing any work and instead relied on other to do their duties for them. Because of how widespread Buddhism was, this meant that much of the population would be counterproductive to China through their constant need for things without giving any back. This, in turn, would make China weak. Wuzong thought the best response would be to continue expulsion of the "unproductive Buddhist followers", because having them gone would mean China wouldn't need to make any more resources to keep up with their constant need, and could instead focus on giving food and resources to those who already helped produce it. Only allowing those who contributed to China to continue taking its resources would lead to all the Chinese people actively working in society to prevent their own starvation. And so Emperor Wuzong thought that expelling Buddhists would be the best way to get rid of their counterproductiveness.
+
+## Part III – Essay
+
+### Directions
+
+**Essay directions:** Below, you will find two prompts. **Please choose one to write on**.  The prompts are broad, so it is up to you to restrict your argument to something you can cover in 2 paragraphs.
+
+- **Write the number of the topic you are answering at the top of your response.**
+- Craft a precise, unified, restricted, and rebuttable **thesis statement** that answers the prompt. Then _**skip a line**_ and write two paragraphs in support of your thesis.
+- Your paragraphs should each begin with a clear **topic sentence** that lays out the argument for the paragraph and shows how the paragraph supports the thesis.
+- Your arguments should be supported with **specific evidence** drawn from what you've learned in the course so far.
+- You will be expected to include evidence from multiple eras (dynasties/empires) in both China and India in the essay. Strong essays will directly compare events, historical processes/patterns in China to similar ones in South Asia.
+
+1. What role have **cross-cultural encounters**  played in the histories of China and South Asia in the period we’ve studied?
+2. What impact has **geography/environment** had on the development of societies in China and South Asia throughout the period we've covered so far?
+
+### My Answer
 
 The placement and control of natural resources such as water, food, wood, and animals led to the rise and fall of many cities and civilizations within China and South Asia.
 

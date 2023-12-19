@@ -3,5 +3,11 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
-  "rightToLeft": false
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
